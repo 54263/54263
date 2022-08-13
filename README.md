@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @54263
-- 👀 I’m interested in many things including AI, Machine Learning and Mathmatical Modeling
+- 👀 I’m interested in many things including AI, Machine Learning ,Wireless Sensor Operation and Mathmatical Modeling
 - 🌱 I’m currently learning R, Matlab and Tensorflow
-- 💞️ I’m looking to collaborate on coding and Mathmtical Modeling 
+- 💞️ I’m looking to learn coding and Mathmtical Modeling of Mechanical Systems and Autonomous Systems 
 - 📫 How to reach me 
 
 <!---
